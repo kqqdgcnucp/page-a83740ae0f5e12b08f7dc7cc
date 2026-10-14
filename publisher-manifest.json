@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e65f40155011ac411fce84c9",
+  "owner": "kqqdgcnucp",
+  "repo": "page-a83740ae0f5e12b08f7dc7cc",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a83740ae0f5e12b08f7dc7cc",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f59a86a31f015806103943040094ee20bea74c846bb4994765479dc6a43a77a0",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享提供专业VPN服务，高速节点保障，流量充足支持多设备在线，解锁流媒体加速。立即下载客户端，畅享稳定网络体验！",
+          "AI_DESCRIPTION": "小火箭分享提供专业VPN服务，高速节点保障，流量充足支持多设备在线，解锁流媒体加速。立即下载客户端，畅享稳定网络体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:'Helvetica Neue',Arial,sans-serif;background:#f8f5f2;color:#333;line-height:1.7}header{background:linear-gradient(135deg,#fff1e6,#fff8f0);padding:2rem 1rem;text-align:center}h1{font-size:2.8rem;color:#333;margin:0 0 1rem}main{max-width:1200px;margin:0 auto;padding:2rem 1rem}section{margin-bottom:3rem}h2{font-size:2rem;color:#FF6F61;margin-bottom:1.5rem}table{width:100%;border-collapse:collapse;margin:2rem 0}th,td{border:1px solid #e8d9c8;padding:1.2rem;text-align:center}th{background:#fff1e6;color:#FF6F61}tr:nth-child(2){background:#fff8f0}button{background:#FF6F61;color:white;border:none;padding:1rem 2rem;border-radius:8px;cursor:pointer;font-size:1.1rem;transition:all .3s}button:hover{transform:translateY(-3px);box-shadow:0 10px 15px -3px rgba(255,111,97,.3)}details{margin:1.5rem 0;background:#fff8f0;border-radius:8px;overflow:hidden}summary{font-weight:600;padding:1rem;cursor:pointer}summary::marker{content:''}summary::-webkit-details-marker{display:none}footer{background:#fff1e6;padding:2rem;text-align:center;color:#666;font-size:0.9rem}</style><main><header><h1>小火箭分享</h1><p>专业VPN加速器，让您享受高速稳定网络，畅享全球无限制内容</p></header><section><h2>套餐对比</h2>套餐基础版旗舰版团队版价格¥15/月¥35/月（年付仅 ¥350/年）¥85/月（年付仅 ¥850/年）流量100GB/月300GB/月1000GB/月设备支持3台5台20台节点特性普通线路全节点原生解锁 + IPLC游戏加速VIP专属高带宽 + 企业定制路由服务保障标准支持7x24优先工单专属客户经理</section><section><h2>使用场景</h2><p>无论办公出差、跨境购物还是日常娱乐，小火箭分享都能为您提供稳定高速的网络连接。完美适配手机电脑平板，轻松解锁Netflix、YouTube、Disney+等流媒体平台，让您随时随地畅享优质内容。</p></section><section><h2>快速入门</h2><ol><li>访问官网下载官方客户端</li><li>注册账号并选择适合的套餐</li><li>连接优选节点，享受极速加速</li><li>支持多设备同时在线，家庭共享无忧</li></ol></section><section><h2>常见问题</h2><details><summary>小火箭分享是什么？</summary><p>小火箭分享是一家专注网络加速的VPN服务商，提供高速稳定节点，支持多种设备连接，助力用户畅享无障碍网络体验。</p></details><details><summary>如何下载客户端？</summary><p>直接访问官网下载页面，点击官方客户端下载按钮，即可获取最新版本。支持Windows、macOS、iOS、Android多平台。</p></details><details><summary>支持哪些设备？</summary><p>基础版支持3台设备同时在线，旗舰版5台，团队版20台，满足家庭、企业全场景需求。</p></details><details><summary>如何更改节点？</summary><p>登录账号后，在客户端设置页面选择不同线路节点即可，无需额外操作。</p></details><details><summary>流量用完后怎么办？</summary><p>可通过续费升级套餐继续使用，或等待新周期重置流量，服务持续稳定。</p></details></section><footer><p>© 2025 小火箭分享 官方所有 | <a href=\"#plans\">查看套餐详情</a> | <a href=\"#\">官网下载</a></p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "922c34583ed5dc7395eab87a214831cae297c586d9930153e1d820fda7efc5fa",
+          "seo": {
+            "title": "小火箭分享 - 高速VPN加速器 | 官网下载",
+            "keywords": "小火箭分享,VPN,机场,客户端下载,加速器,网络加速,高速VPN",
+            "description": "小火箭分享提供专业VPN服务，高速节点保障，流量充足支持多设备在线，解锁流媒体加速。立即下载客户端，畅享稳定网络体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "longwenjob.cn",
+    "host": "p-d1fba5809e.longwenjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "99c732f7b4113d1c8dcf645d8ad60996241c4c850c6a9f6488106a6cdc9c66ed",
+    "sitemap.xml": "fa6475c54556f1e0c4c69babdf78813b0a0557d364cd9c11c1a8cb51bbf10053",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b1ac73f5c2293dde300c3f9e7be2e59c2cae3b4ec78ed2aa9856bb346632b298",
+    "robots.txt": "086d6838f35c068882fa319515028eeabf3ba88b8d91a34cefcac0a9db150681",
+    "77157ab885536b31dd2547f326cf31e0.txt": "bc9de0a5a478764f1db0ba06c162b7456d74c539c09a807f215b848c310a9d29"
+  },
+  "revision": "86576de6de988c94e2ac10d254e8ed6175b41146a3aac0e3aa9e99f584ab5333"
+}
